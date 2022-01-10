@@ -1,0 +1,15 @@
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\ref\Decorator.dll
+E:\С\С#\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+E:\С\С#\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
