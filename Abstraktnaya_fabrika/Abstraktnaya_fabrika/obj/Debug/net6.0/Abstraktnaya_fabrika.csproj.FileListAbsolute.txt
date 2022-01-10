@@ -1,0 +1,15 @@
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\Abstraktnaya_fabrika.exe
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\Abstraktnaya_fabrika.deps.json
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\Abstraktnaya_fabrika.runtimeconfig.json
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\Abstraktnaya_fabrika.dll
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\ref\Abstraktnaya_fabrika.dll
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\bin\Debug\net6.0\Abstraktnaya_fabrika.pdb
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.csproj.AssemblyReference.cache
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.GeneratedMSBuildEditorConfig.editorconfig
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.AssemblyInfoInputs.cache
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.AssemblyInfo.cs
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.csproj.CoreCompileInputs.cache
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.dll
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\ref\Abstraktnaya_fabrika.dll
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.pdb
+E:\С\С#\Abstraktnaya_fabrika\Abstraktnaya_fabrika\obj\Debug\net6.0\Abstraktnaya_fabrika.genruntimeconfig.cache

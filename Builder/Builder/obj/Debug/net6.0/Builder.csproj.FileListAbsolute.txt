@@ -1,0 +1,15 @@
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\Builder.exe
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\Builder.deps.json
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\Builder.dll
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\ref\Builder.dll
+E:\С\С#\Builder\Builder\bin\Debug\net6.0\Builder.pdb
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.dll
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\ref\Builder.dll
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.pdb
+E:\С\С#\Builder\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache

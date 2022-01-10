@@ -1,0 +1,8 @@
+E:\С\С#\Singltone\Singltone\bin\Debug\Singltone.exe.config
+E:\С\С#\Singltone\Singltone\bin\Debug\Singltone.exe
+E:\С\С#\Singltone\Singltone\bin\Debug\Singltone.pdb
+E:\С\С#\Singltone\Singltone\obj\Debug\Singltone.csproj.AssemblyReference.cache
+E:\С\С#\Singltone\Singltone\obj\Debug\Singltone.csproj.SuggestedBindingRedirects.cache
+E:\С\С#\Singltone\Singltone\obj\Debug\Singltone.csproj.CoreCompileInputs.cache
+E:\С\С#\Singltone\Singltone\obj\Debug\Singltone.exe
+E:\С\С#\Singltone\Singltone\obj\Debug\Singltone.pdb
